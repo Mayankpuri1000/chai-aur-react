@@ -1,6 +1,6 @@
 Test file for react setup
 
-## Installation
+## Older Installation
 ```bash
 npx create-react-app my-react-app
 ```
